@@ -12,5 +12,4 @@ This project contains a simple HTML form for submitting timesheet data. It conne
 
 - `index.html`: The main form
 - `README.md`: Project instructions
-- 
 
